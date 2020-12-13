@@ -13,6 +13,8 @@ and successfully guide people with correct information.
 
 We have made following files :
 
+7.* Updated_Sentiment_Analysis_using_Bert_Databricks :
+
 1. SA_using_bert_LR_Databricks : We have made an End to End pipeline in Databricks, 
 we have first  trained the model using PySpark, then we get the live Twitter data using Twitter API,
 we would then clean it, and apply NLP and BERT models and then predict the sentiment using the trained model.
@@ -26,3 +28,7 @@ we would then clean it, and apply NLP and BERT models and then predict the senti
 5. data_cleaning : This is the data cleaning function which can be used at required places.
 
 6. sample_data_200k : Sample dataset of 200k rows
+
+
+**7. Updated_Sentiment_Analysis_using_Bert_Databricks : We have updated the file and fixed the error, in the new version, 
+we are using the trained model, so we dont have to train model again every time we run it.
