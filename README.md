@@ -2,7 +2,7 @@
 
 #CSYE_7200_Big_Data_Project_Covid19_Sentiment_Analysis
 
-The purpose of this project is to analyse peoples opininons and their minds
+The purpose of this project is to analyse peoples opinions and their minds
 during a pandemic. We have gathered relevant data from Twitter, built a model in NLP 
 and then analysed it based on sentiments such as positive or negative.
 
@@ -17,7 +17,7 @@ We have made following files :
 we have first  trained the model using PySpark, then we get the live Twitter data using Twitter API,
 we would then clean it, and apply NLP and BERT models and then predict the sentiment using the trained model.
 
-2. SparkProjects : Trained 1.6 million Twitter Data in Scala (Intellij)
+2. SparkProjects : Trained 1.6 million Twitter Data in Scala and Spark (Intellij)
 
 3. SA_BERT_using_TF : Trained 600k data in TensorFlow in Python, applied NLP and BERT, saved the model.
 
